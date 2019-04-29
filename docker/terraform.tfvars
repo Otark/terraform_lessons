@@ -1,5 +1,5 @@
 image = {
-  dev = "ghost: latest"
+  dev = "ghost:latest"
   prod = "ghost:alpine"
 }
 
